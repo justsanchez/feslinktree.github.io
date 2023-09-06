@@ -214,7 +214,7 @@ content: "";
 width: 50%;
 height: 50%;
 border-radius: 100%;
-box-shadow: 0 -150px 400px #4169E1;
+box-shadow: 0 -150px 400px #000044;
 position: fixed;
 bottom: -50%;
 left: 25%;
@@ -226,7 +226,7 @@ content: "";
 width: 50%;
 height: 50%;
 border-radius: 100%;
-box-shadow: 0 150px 300px #4169E1;
+box-shadow: 0 150px 300px #000044;
 position: fixed;
 top: -50%;
 left: 25%;
@@ -263,7 +263,7 @@ animation: animate_3 10s infinite;
 /* Let's Create Animation */
 @keyframes animate_1{
 25%{
-box-shadow: 0 150px 300px #4169E1;
+box-shadow: 0 150px 300px #000044;
 }
 50%{
 box-shadow: 0 150px 300px #000000;
@@ -272,7 +272,7 @@ box-shadow: 0 150px 300px #000000;
 box-shadow: 0 150px 300px #000000;
 }
 100%{
-box-shadow: 0 150px 300px #4169E1;
+box-shadow: 0 150px 300px #000044;
 }
 }
 
@@ -284,7 +284,7 @@ box-shadow: 0 0 500px 450px #000000;
 box-shadow: 0 0 500px 450px #000000;
 }
 75%{
-box-shadow: 0 0 500px 450px #4169E1;
+box-shadow: 0 0 500px 450px #000044;
 }
 100%{
 box-shadow: 0 0 500px 450px #000000;
@@ -296,7 +296,7 @@ box-shadow: 0 0 500px 450px #000000;
 box-shadow: 0 0 500px 450px #000000;
 }
 50%{
-box-shadow: 0 0 500px 450px #4169E1;
+box-shadow: 0 0 500px 450px #000044;
 }
 75%{
 box-shadow: 0 0 500px 450px #000000;
